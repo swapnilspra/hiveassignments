@@ -62,7 +62,3 @@ Part II Mahout and Recommendation
 - Using Apache spark interactive shell. Take the user id as input. Now finds all the movies that he rates as 4.
 - Find the movies that match with the user’s rated movies with the key of the item-similarity file.
 - Reference https://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html 
-
-## License
-
-MIT: http://vineetdhanawat.mit-license.org/
